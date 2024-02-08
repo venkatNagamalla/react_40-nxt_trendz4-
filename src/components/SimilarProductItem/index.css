@@ -1,0 +1,48 @@
+/* Write your CSS here */
+
+.similar-img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.list-item {
+  width: 250px;
+  margin-bottom: 25px;
+  margin-right: 50px;
+}
+
+.price-rating-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.ratings-container {
+  width: 60px;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background-color: #3b82f6;
+  border-radius: 5px;
+}
+
+.price-amount {
+  font-size: 22px;
+  color: #12022f;
+  font-weight: bold;
+}
+
+.title-heading {
+  font-size: 22px;
+  margin-bottom: 10px;
+  margin-top: 8px;
+  color: #171f46;
+}
+
+.brand-desc {
+  color: #616e7c;
+}
